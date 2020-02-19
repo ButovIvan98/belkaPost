@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainBlock {
+    background-color: #112f40;
+}
+
+.indexHeaderLogo {
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.buttonMobileMenu {
+    background: transparent;
+    border: 0;
+    float: right;
+}
+
+.phoneNumber {
+    color: white;
+    display: inline-block
+}
+
+.indexHeaderLk {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: white;
+    text-decoration: none !important;
+    padding: 10px 15px;
+}
+
+.indexBlockUser {
+    position: absolute;
+    right: 10px;
+    width: 150px;
+    float: right;
+    margin-right: 0;
+    box-shadow: 0 5px 5px black;
+    border-radius: 4px;
+    background: #112f40;
+    top: 0;
+    z-index: 9999;
+}
+
+.indexBlockUserLink {
+    position: relative;
+    color: white;
+    text-align: left;
+}
+
+.indexBlockUserLink p {
+    padding-right: 15px;
+}
+
+.lineHeader {
+    background: white;
+    margin: 0 10px;
+}
+
+.iconsHeader {
+    width: 12px;
+    opacity: 0.4;
+    position: relative;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.headerLogo {
+    margin-top: 0;
+    margin-left: 15px;
+}
